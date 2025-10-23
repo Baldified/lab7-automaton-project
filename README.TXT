@@ -17,6 +17,6 @@ ANSWERS
 
 29. No, the patterns are the same. Yes, it stays the same pattern in the end.
 
-31. We created a new array because otherwise the length of state will remain the same. It makes a difference because in the end the NextState array remains untouched and wipes the state array.
+31. created a new array because otherwise the length of state will remain the same. It makes a difference because in the end the NextState array remains untouched and wipes the state array.
 
 
