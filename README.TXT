@@ -8,3 +8,9 @@ This project is part of the material of the book
    David J. Barnes and Michael Kölling
 
 It is discussed in chapter 7.
+
+ANSWERS
+
+27. Yes
+
+28. it makes all the values in the array state 0
