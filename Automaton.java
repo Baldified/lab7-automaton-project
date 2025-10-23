@@ -64,6 +64,7 @@ public class Automaton
             }
             */
             center = state[i];
+            
             /*
             if(i + 1 < state.length) {
                 right = state[i + 1];
@@ -85,5 +86,7 @@ public class Automaton
         Arrays.fill(state, 0);
         // Seed the automaton with a single 'on' cell.
         state[numberOfCells / 2] = 1;
+        state[0] = 1;
+        state[49] = 1;
     }
 }
