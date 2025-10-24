@@ -19,4 +19,4 @@ ANSWERS
 
 31. created a new array because otherwise the length of state will remain the same. It makes a difference because in the end the NextState array remains untouched and wipes the state array.
 
-
+35. yes there are infinite amount of possibilities.
